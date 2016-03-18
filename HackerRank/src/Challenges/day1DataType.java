@@ -2,7 +2,7 @@ package Challenges;
 
 import java.util.ArrayList ;
 import java.util.List;
-
+import java.util.*;
 public class day1DataType {
 
 	public static void main(String[] args) {
@@ -37,5 +37,6 @@ public class day1DataType {
 		    }
 		        
 		    }
+		System.out.println(sections);
 		}
 	}
